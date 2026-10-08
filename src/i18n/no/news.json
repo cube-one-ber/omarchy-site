@@ -80,8 +80,8 @@
     "sourceHash": "5c7a98a0d30bdf81bdf7743ed9510e7c6d47dad679c92a02767d895dd1b3b9a5"
   },
   "omacom-foundation-launches-with-8-million": {
-    "title": "Omacom Foundation lanseres med 21,7 millioner dollar",
-    "sourceHash": "d9e32fe69c8ec12634c40c20e6ffe4668a63ea365a175af61fa78bc0acd5bcf7"
+    "title": "Omacom Foundation lanseres med $23,2 millioner",
+    "sourceHash": "a07fd1786bf95e85cb99f9e93d71585f90405ab6339ed2f8486ef673ad9b4354"
   },
   "omacom-foundation-to-be-exclusive-hyprland-sponsor": {
     "title": "Omacom Foundation blir eksklusiv sponsor for Hyprland",
@@ -130,5 +130,9 @@
   "omarchy-launches-bug-bounty-program-on-hackerone": {
     "title": "Omarchy lanserer bug bounty-program på HackerOne med $100,000 i dusører",
     "sourceHash": "09e834cfd5c67b5c1b5434c4921b506f7fc73e736d7fdf37b575ed1d1483dc2c"
+  },
+  "spacexai-joins-as-founding-corporate-patron": {
+    "title": "SpaceXAI blir med som Founding Corporate Patron med $1,5 millioner i Grok-tokens",
+    "sourceHash": "d32d3f956ed8e2a1b979db10cf7d7fe2b4c0ab7800e494f6a517270ae00a9ac7"
   }
 }
