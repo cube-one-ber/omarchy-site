@@ -12,7 +12,7 @@
     ]
   },
   "foundation": {
-    "total": 21.7,
+    "total": 23.2,
     "steps": [
       {
         "date": "2026-08-21",
@@ -68,6 +68,11 @@
         "date": "2026-09-22",
         "amount": 21.7,
         "post": "/news/2026/09/alibaba-cloud-joins-as-founding-corporate-patron/"
+      },
+      {
+        "date": "2026-10-08",
+        "amount": 23.2,
+        "post": "/news/2026/10/spacexai-joins-as-founding-corporate-patron/"
       }
     ]
   },

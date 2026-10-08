@@ -101,6 +101,12 @@
     "meta": "",
     "href": "https://www.alibabacloud.com/",
     "avatar": "/assets/images/patrons/alibaba-cloud.svg"
+   },
+   {
+    "name": "SpaceXAI",
+    "meta": "",
+    "href": "https://x.ai/",
+    "avatar": "/assets/images/patrons/spacexai.svg"
    }
   ],
   "note": null
