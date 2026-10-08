@@ -1,5 +1,5 @@
 ---
-title: Omacom Foundation launches with $21.7 million
+title: Omacom Foundation launches with $23.2 million
 date: 2026-08-21 17:57 +0200
 author: DHH
 author_url: https://dhh.dk
@@ -31,6 +31,7 @@ These Founding Corporate Patrons are each contributing $1 million a year for thr
 - [Meta Superintelligence Labs](https://www.meta.com/superintelligence/)
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Alibaba Cloud](https://www.alibabacloud.com/)
+- [SpaceXAI](https://x.ai/)
 
 These Distinguished Patrons are each contributing $100,000 to the mission:
 
@@ -49,7 +50,7 @@ And these Distinguished Corporate Patrons are each contributing $100,000 a year 
 - [OpenRouter](https://openrouter.ai/)
 - [OrcaRouter](https://www.orcarouter.ai/)
 
-Over 800 donors have also raised over $120,000 through [open patronage](https://www.zeffy.com/en-US/donation-form/omarchy-patronage), bringing the total in pledges and donations to approximately $21.7 million.
+Over 800 donors have also raised over $120,000 through [open patronage](https://www.zeffy.com/en-US/donation-form/omarchy-patronage), bringing the total in pledges and donations to approximately $23.2 million.
 
 This is a ridiculous sum of money, so I intend to make sure it lasts a long time, and that we make the most of it. But just as important as the incredible cushion is the vote of confidence delivered by these pledges.
 
@@ -74,3 +75,5 @@ We're going to make the prophecy of The Year of Linux on the Desktop come true. 
 *UPDATE: OrcaRouter [joined as a Distinguished Corporate Patron with $150,000 in tokens on September 17](/news/2026/09/orcarouter-joins-as-a-distinguished-corporate-patron/).*
 
 *UPDATE: Alibaba Cloud [joined as a Founding Corporate Patron with $1 million a year for three years on September 22](/news/2026/09/alibaba-cloud-joins-as-founding-corporate-patron/).*
+
+*UPDATE: SpaceXAI [joined as a Founding Corporate Patron with $1.5 million in Grok tokens on October 8](/news/2026/10/spacexai-joins-as-founding-corporate-patron/).*
